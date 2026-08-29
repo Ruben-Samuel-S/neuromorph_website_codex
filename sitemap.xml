@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  NEUROMORPH is a single-page application: every URL below resolves to the
+  same document (index.html) with a different client-side (hash) route.
+  Search engines only crawl and index the root URL; the "#/..." entries
+  are listed here for documentation purposes only, to describe the app's
+  routes, and are not independently crawlable pages.
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://ruben-samuel-s.github.io/neuromorph_website_codex/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ruben-samuel-s.github.io/neuromorph_website_codex/#/platform</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ruben-samuel-s.github.io/neuromorph_website_codex/#/assessment</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ruben-samuel-s.github.io/neuromorph_website_codex/#/ai-analysis</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ruben-samuel-s.github.io/neuromorph_website_codex/#/cognitive-profile</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://ruben-samuel-s.github.io/neuromorph_website_codex/#/clinical-value</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ruben-samuel-s.github.io/neuromorph_website_codex/#/validation</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ruben-samuel-s.github.io/neuromorph_website_codex/#/about</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ruben-samuel-s.github.io/neuromorph_website_codex/#/contact</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+</urlset>

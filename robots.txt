@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ruben-samuel-s.github.io/neuromorph_website_codex/sitemap.xml
